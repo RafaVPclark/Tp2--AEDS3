@@ -22,17 +22,17 @@ Recebe dois vetores de inteiros e retorna um terceiro vetor com a interseção d
 ### RESTANTE
 Além de tudo isso na classe principal, foi adicionado um delete() para apagar os dados do dicionário da lista invertida.
 
-###Opinião do grupo
+### Opinião do grupo
 Todos os requisitos foram alcançados, e os métodos de create, update e delete foram tranquilos após a compreensão da classe ListaInvertida. O trabalho maior foi criar o método que formatasse corretamente os titulos, e, principalmente o método de busca. Não sabiamos como funcionava esse método, porém após compreender que ele retornava um vetor com os ids pensamos em ficar realizando uma junção de valores comuns em sequência e ficou mais tranquilo. Porém no fim todos os resultados foram alcançados e os métodos estão funcionando corretamente.
 
-#CHECKLIST
-*A inclusão de um livro acrescenta os termos do seu título à lista invertida? SIM 
-*A alteração de um livro modifica a lista invertida removendo ou acrescentando termos do título? SIM
-*A remoção de um livro gera a remoção dos termos do seu título na lista invertida? SIM
-*Há uma busca por palavras que retorna os livros que possuam essas palavras? SIM
-*Essa busca pode ser feita com mais de uma palavra? SIM
-*As stop words foram removidas de todo o processo? SIM
-*Que modificação, se alguma, você fez para além dos requisitos mínimos desta tarefa? NENHUMA
-*O trabalho está funcionando corretamente? SIM
-*O trabalho está completo? SIM
-*O trabalho é original e não a cópia de um trabalho de um colega? SIM
+# CHECKLIST
+* A inclusão de um livro acrescenta os termos do seu título à lista invertida? SIM 
+* A alteração de um livro modifica a lista invertida removendo ou acrescentando termos do título? SIM
+* A remoção de um livro gera a remoção dos termos do seu título na lista invertida? SIM
+* Há uma busca por palavras que retorna os livros que possuam essas palavras? SIM
+* Essa busca pode ser feita com mais de uma palavra? SIM
+* As stop words foram removidas de todo o processo? SIM
+* Que modificação, se alguma, você fez para além dos requisitos mínimos desta tarefa? NENHUMA
+* O trabalho está funcionando corretamente? SIM
+* O trabalho está completo? SIM
+* O trabalho é original e não a cópia de um trabalho de um colega? SIM
