@@ -1,5 +1,5 @@
 # Tp2--AEDS3
-##Métodos Implementados/Alterados
+## Métodos Implementados/Alterados
 ### NA CLASSE ARQUIVO LIVROS
 * Método tratarTitulo()
 Esse método foi criado para receber um titulo com diversas palavras, separar elas utilizando um split, transformas todas em palavras minúsculas, remover os acentos e as stop words. Após realizar a formatação ele retorna um vetor de Strings.
